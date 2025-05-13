@@ -1,0 +1,36 @@
+{
+    "normal": {
+        "desc": "Normal consumption",
+        "label": 0
+    },
+    "night_thief": {
+        "desc": "Night thief",
+        "label": 1
+    },
+    "peak_thief": {
+        "desc": "Evening thief",
+        "label": 1
+    },
+    "sudden_spike": {
+        "desc": "Sudden fluctuations",
+        "label": 0
+    },
+    "noisy": {
+        "desc": "Noisy signal",
+        "label": 0
+    },
+    "_temp": {
+        "gradual_thief": {
+            "desc": "Gradually increasing theft",
+            "label": 1
+        },
+        "specific_thief": {
+            "desc": "Theft on specific days",
+            "label": 1
+        },
+        "variable_thief": {
+            "desc": "Variable time theft",
+            "label": 1
+        }
+    }
+}
